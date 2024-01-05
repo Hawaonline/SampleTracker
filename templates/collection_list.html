@@ -1,0 +1,20 @@
+<!-- sampleapp/templates/collection_list.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collection List</title>
+</head>
+<body>
+    <h1>Collection List</h1>
+    <ul>
+        {% for collection in collections %}
+            <li>
+                <a href="{% url 'collection_detail' collection.id %}">
+                    {{ collection.title }} - {{ collection.disease_term }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

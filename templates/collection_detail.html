@@ -1,0 +1,24 @@
+<!-- sampleapp/templates/collection_detail.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collection Detail</title>
+</head>
+<body>
+    <h1>Collection Detail</h1>
+    <h2>{{ collection.title }}</h2>
+    <p>Disease Term: {{ collection.disease_term }}</p>
+
+    <h3>Samples:</h3>
+    <ul>
+        {% for sample in samples %}
+            <li>
+                Sample ID: {{ sample.id }} - Donor Count: {{ sample.donor_count }} - Material Type: {{ sample.material_type }} - Last Updated: {{ sample.last_updated }}
+            </li>
+        {% empty %}
+            <li>No samples available for this collection.</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
