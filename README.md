@@ -62,7 +62,7 @@ Ensure you have the following installed:
 
 ## Contribution
 
-Please read [CONTRIBUTING.md](link-to-contributing-guide) for details on our code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
 ## Acknowledgments
 
