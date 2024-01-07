@@ -4,7 +4,7 @@ Thank you for considering contributing to the Tissue Sample Collection Managemen
 
 ## Code of Conduct
 
-Please review our [Code of Conduct](link-to-code-of-conduct) before contributing. All contributors are expected to adhere to the Code of Conduct.
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing. All contributors are expected to adhere to the Code of Conduct.
 
 ## How Can I Contribute?
 
@@ -20,10 +20,6 @@ We welcome pull requests that address bug fixes or introduce new features. Follo
 ## Code Style
 
 Please maintain a consistent coding style throughout the project. Follow existing code patterns, indentation, and naming conventions.
-
-## License
-
-By contributing to this project, you agree that your contributions will be licensed under the project's [License Name]. See the [LICENSE.md](link-to-license-file) file for details.
 
 ## Acknowledgments
 
