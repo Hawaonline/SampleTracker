@@ -29,9 +29,9 @@ This Code of Conduct applies to all project spaces, including project repositori
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [email address or contact information]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at info@tst24.org. All complaints will be reviewed and investigated promptly and fairly.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. They also reserve the right to ban individuals who engage in abusive, harassing, or otherwise unacceptable behavior.
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. They also reserve the right to ban individuals who engage in abusive, harassing, or otherwise unacceptable behaviour.
 
 ## Attribution
 
