@@ -8,10 +8,6 @@ Please review our [Code of Conduct](link-to-code-of-conduct) before contributing
 
 ## How Can I Contribute?
 
-### Reporting Issues
-
-If you encounter bugs or have any suggestions for improvements, please [open an issue](link-to-issue-tracker) on our issue tracker. When reporting issues, please provide detailed information and steps to reproduce.
-
 ### Pull Requests
 
 We welcome pull requests that address bug fixes or introduce new features. Follow these steps to submit a pull request:
